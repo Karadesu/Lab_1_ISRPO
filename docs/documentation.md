@@ -23,7 +23,7 @@
 
 #### `area(r)`
 
-Вычисляет площадь окружности по формуле `π * r*r`.
+Вычисляет площадь окружности по формуле `math.pi * r*r`.
 
 **Параметры:**
 - `r` (int | float) - радиус окружности.
@@ -138,3 +138,9 @@
 ```
 ## История изменения проекта
 
+
+  commit  |                description                 |
+----------|--------------------------------------------|
+`988d1a3` | rectangle.py was added                     |
+`93afc64` | fixed perimeter's function in rectangle.py |
+`85246b1` | added declaration in all functions         |
